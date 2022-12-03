@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesiwa
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning JavaScript, Python.
+- 🌱 I’m currently learning React.js
 
 <!---
 cesiwa/cesiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
